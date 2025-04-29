@@ -1,0 +1,6 @@
+duckduckgo-search
+requests
+tensorflow
+keras
+numpy
+PILLOW
